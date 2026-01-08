@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "千夜一夜",
+  "base_artist": "ヒルクライム",
+  "createdAt": "2026-01-08T05:20:54.339230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "千夜一夜",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/01_千夜一夜_See-Saw.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "千夜一夜(KARAOKE)",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/02_千夜一夜(KARAOKE)_See-Saw.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "千夜一夜 (Senya Ichiya)",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/03_千夜一夜_(Senya_Ichiya)_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "千夜一夜 (KARAOKE) (Senya Ichiya (KARAOKE))",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/04_千夜一夜_(KARAOKE)_(Senya_Ichiya_(KARAOKE))_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "千夜一夜",
+      "artist": "Hilcrhyme",
+      "has_synced": true,
+      "path": "select/05_千夜一夜_Hilcrhyme.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "千夜一夜",
+      "artist": "Hilcrhyme feat.仲宗根泉",
+      "has_synced": true,
+      "path": "select/06_千夜一夜_Hilcrhyme_feat.仲宗根泉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "千夜一夜",
+      "artist": "ヒルクライム, 仲宗根泉",
+      "has_synced": false,
+      "path": "select/pl_01_千夜一夜_ヒルクライム,_仲宗根泉.txt"
+    }
+  ]
+}
